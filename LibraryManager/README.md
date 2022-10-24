@@ -13,3 +13,11 @@
 6. Chức năng 4: cho mượn sách (theo id của cuốn sách) 
 
 7. Chức năng 5: thoát chương trình. 
+
+----------------------------------------------------------------------------------------
+
+1. Class Book.java: định nghĩa thuộc tính và phương thức cho các cuốn sách.
+
+Các trường thông tin cơ bản cần có của một cuốn sách là: mã sách, tên sách, tác giả, và trạng thái (được mượn, chưa mượn). Tham khảo code trong hình dưới đây để biết cách tạo các class kèm theo các thuộc tính và constructor. 
+
+![image8](https://user-images.githubusercontent.com/35893418/197427633-81980d9c-fffc-4516-9a7a-cb06cd35955f.png)
